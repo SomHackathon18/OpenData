@@ -1,0 +1,51 @@
+Nom del fitxer: mobilitat_ocup2017.csv
+Columnes:
+   CODI_INTERN: codi intern de l'activitat
+   TIPUS_OCUPACIO: tipus d'activitat que es desenvolupa
+   DATA_INICI: data d'inici de l'ocupació
+   DATA_FI: data de fi de l'ocupació   
+   LAT: latitud en coordenades geogràfiques del centroïde de la zona  
+   LNG: longitud en coordenades geogràfiques del centroïde de la zona  
+   WKT: punt de l'accés en format WKT Well-Known Text   
+Descripció:
+   Es mostren les ocupacions de la via pública que es van produir l'any 2017
+Actualització:
+   Dades no actualitzades
+
+Tipologia d'ocupacions
+--------------
+ ACTES CULTURALS
+ ACTES DIVERSOS AL CARRER
+ BASTIDES I TANQUES
+ CERCAVILES
+ COMERÇ URBÀ
+ CONTENIDOR DE RUNA
+ CÀRREGA I DESCÀRREGA DE MATERIALS
+ ENDERROCS EN CASC URBÀ
+ ESDEVENIMENTS ESPORTIUS
+ ESDEVENIMENTS ESPORTIUS ORGANITZATS PER TERCERS
+ ESPECTACLES
+ EXPOSCIONS A ESPAIS PÚBLICS
+ FIRES MERCAT
+ FIRES MONOGRÀFIQUES AL PARC CENTRAL
+ GUALS
+ INSTAL.LACIÓ I RECOLLIDA DE GUARNIMENTS I SIMILARS
+ LINIES D' AUTOBUSOS
+ MANTENIMENT DE VIALS
+ MERCATS DE MARXANTS
+ MUDANÇA
+ MUNTATGE I DESMUNTATGE DE GRUES
+ NETEJES ESPECIALS
+ OBRES
+ PARADES TEMPORALS
+ PODA D'ARBRAT
+ RASES I CATES
+ RECOLLIDA D' ESCOMBRERIES
+ REHABILITACIÓ DE CONSTRUCCIONS
+ RESERVES D' ESTACIONAMENT
+ RESERVES D'ESTACIONAMENT PUNTUAL
+ SAC DE RUNA
+ STANDS I SIMILARS
+ TERRASSES DE BAR
+ UBICACIÓ DE CONTENIDORS DE RECOLLIDA D' ESCOMBRERIES ( temporal ) 
+ URBANITZACIÓ DE VIES EXISTENTS 

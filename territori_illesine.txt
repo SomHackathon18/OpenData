@@ -1,0 +1,14 @@
+Nom del fitxer: territori_illesine.csv
+Columnes:
+   ZONA: Illes  ( en tots els casos )
+   CODIINE: Codi de l'INE ( districte-secció-illa)
+   DISTRICTE: Codi ditricte INE
+   SECCIO: Codi secció INE
+   ILLA: Codi illa INE
+   LAT: latitud en coordenades geogràfiques del centroide de l'illa
+   LNG: longitud en coordenades geogràfiques del centroide de l'illa
+   WKT: punt del centroide d'illa en format WKT Well-Known Text
+Descripció:
+   Illes de Mataró amb codificació INE.
+Actualització:
+   Dades no actualitzades

@@ -1,0 +1,10 @@
+Nom del fitxer: ILLES_INE_4326.shp (EPSG Projection 4326 )
+Columnes:
+   CODIINE: Codi de l'INE ( districte-secció-illa)
+   DISTRICTE: Codi ditricte INE
+   SECCIO: Codi secció INE
+   ILLA: Codi illa INE   
+Descripció:
+   Fitxer en format SHAPE de les illes de Mataró codificades segons INE
+Actualització:
+   Dades no actualitzades

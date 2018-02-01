@@ -1,0 +1,24 @@
+Nom del fitxer: territori_illespob.csv
+Columnes:
+   CODI_INE: codi INE de l'illa  
+   NOMBRE_HABITANTS: nombre d'habitants de l'illa
+   NOMBRE_DONES: nombre de dones de l'illa
+   NOMBRE_HOMES: nombre d'homes de l'illa
+   DONES_00_16: nombre de dones menors de 17 anys
+   HOMES_00_16: nombre d'homes menors de 17 anys
+   DONES_17_29: nombre de dones entre 17 i 29 anys
+   HOMES_17_29: nombre d'homes entre 17 i 29 anys 
+   DONES_30_49: nombre de dones entre 30 i 49 anys
+   HOMES_30_49: nombre d'homes entre 30 i 49 anys 
+   DONES_50_69: nombre de dones entre 50 i 69 anys
+   HOMES_50_69: nombre d'homes entre 50 i 69 anys 
+   DONES_70: nombre de dones de mes de 69 anys
+   HOMES_70: nombre d'homes de més  de 69 anys
+   NOMBRE_VEHICLES: nombre de vehicles de les persones de l'illa
+   LAT: latitud en coordenades geogràfiques del centroide de l'illa
+   LNG: longitud en coordenades geogràfiques del centroide de l'illa
+   WKT: punt del centroide d'illa en format WKT Well-Known Text
+Descripció:
+   Dades demogràfiques dels habitants de l'illa i de vehicles 
+Actualització:
+   Dades no actualitzades. Només es mostren illes on viuen més 20 persones

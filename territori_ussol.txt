@@ -1,0 +1,12 @@
+Nom del fitxer: territori_usossol.csv
+Columnes:
+   ZONA: Usos sòl  ( en tots els casos )
+   CODI_US: Codi de l'ús del sòl
+   DESCRIPCIO_US: descripció de l'ús del sòl
+   LAT: latitud en coordenades geogràfiques del centroide de l'illa
+   LNG: longitud en coordenades geogràfiques del centroide de l'illa
+   WKT: punt del centroide d'illa en format WKT Well-Known Text
+Descripció:
+   Usos del sòl a Mataró.
+Actualització:
+   Dades no actualitzades

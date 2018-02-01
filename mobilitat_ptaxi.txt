@@ -1,0 +1,12 @@
+Nom del fitxer: mobilitat_ptaxi.csv
+Columnes:
+   ZONA: Parades taxi ( en tots els casos )
+   CODI_PARADA: codi únic que identifica la parada
+   DESCRIPCIÓ: adreça de la parada no normalitzada amb referències per identificar-la
+   LAT: latitud en coordenades geogràfiques de la parada
+   LNG: longitud en coordenades geogràfiques de la parada
+   WKT: punt en format WKT Well-Known Text
+Descripció:
+   Parades de taxí a Mataró.
+Actualització:
+   Dades no actualitzades

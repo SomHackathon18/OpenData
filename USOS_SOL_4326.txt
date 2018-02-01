@@ -1,0 +1,10 @@
+Nom del fitxer: USOS_SOL_4326.shp (EPSG Projection 4326 )
+Columnes:
+   CODI: codi de l'ús del sòl 
+   USOS: descripció de l'ús del sòl
+Descripció:
+   Fitxer en format SHAPE de l'ús del sòl a Mataró.
+Actualització:
+   Dades no actualitzades
+
+   

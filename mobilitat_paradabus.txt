@@ -1,0 +1,11 @@
+Nom del fitxer: mobilitat_paradabus.csv
+Columnes:
+   CODI_PARADA: codi únic que identifica la parada
+   LINIA: lína de bus que s'atura a la parada
+   LAT: latitud en coordenades geogràfiques de la parada
+   LNG: longitud en coordenades geogràfiques de la parada
+   WKT: punt en format WKT Well-Known Text
+Descripció:
+   Parades de bús a Mataró
+Actualització:
+   Dades no actualitzades

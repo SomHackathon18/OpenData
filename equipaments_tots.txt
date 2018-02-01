@@ -1,0 +1,134 @@
+Nom del fitxer: equipaments_tots.csv
+Columnes:
+   NOM: nom de l'equipament o del servei que s'hi troba
+   ADRECA: adreça de l'equipament
+   CATEGORIA: classificació de l'equipament
+   TIPUS: subclassificació de l'equipament
+   LAT: latitud en coordenades geogràfiques de l'accés 
+   LNG: longitud en coordenades geogràfiques de l'accés 
+   WKT: punt de l'accés en format WKT Well-Known Text   
+Descripció:
+   Es mostren els equipaments i altres elements d'interès de Mataró ( 
+Actualització:
+   Dades no actualitzades. 
+
+CATEGORIA	                  TIPUS
+Administració de l'Estat   	Agència Tributària
+Administració de l'Estat   	Jutjats
+Administració de l'Estat   	Oficines de Correus
+Administració municipal	      Ajuntament
+Administració municipal    	Alcaldia
+Administració municipal      	Àrea d'Acció Social
+Administració municipal	      Àrea de Gestió de l'Espai Públic
+Administració municipal	      Àrea de Serveis a les Persones
+Administració municipal	      Àrea de Serveis Centrals, Ocupació i Promoció Econòmica
+Administració municipal	      Àrea de Serveis Territorials i Sostenibilitat
+Administració municipal	      Empresa municipal
+Administració municipal	      Mataró Energia Sostenible
+Administració municipal	      Oficina d'Atenció Ciutadana (OFIAC)
+Administració municipal	      Sostenibilitat
+Allotjament	                  Càmpings
+Allotjament	                  Hostals
+Allotjament	                  Hotels
+Allotjament	                  Pensions
+Altres administracions	      Consell Comarcal
+Altres administracions	      Gestió Tributària
+Altres serveis	               Altres -serveis sanitaris-
+Altres serveis	               Cambra de Comerç
+Altres serveis	               Cambra de la Propietat
+Altres serveis	               Centres d'Atenció a la infància
+Altres serveis	               Centres Tecnològics
+Altres serveis	               Normalització lingüística
+Altres serveis	               ONCE
+Altres serveis	               Refugis d'animals
+Altres serveis	               Registre de la Propietat
+Casals	                     Casals de barri
+Casals	                     Casals per a la gent gran
+Centres Cívics i Socials	   Centres Cívics
+Centres Cívics i Socials	   Centres Socials
+Companyies de subministrament	Aigua
+Companyies de subministrament	Gas
+Companyies de subministrament	Llum
+Cultura i Oci	               Arts escèniques
+Cultura i Oci	               Arxius i Centres de documentació
+Cultura i Oci	               Associació cultural
+Cultura i Oci	               Biblioteques
+Cultura i Oci	               Centres comercials
+Cultura i Oci	               Cinemes
+Cultura i Oci	               Mitjans audiovisuals
+Cultura i Oci	               Museus
+Cultura i Oci	               Sales de concerts i espectacles
+Cultura i Oci	               Sales d'exposicions i galeries d'art
+Educació	                     Altres -oficines d'educació-
+Educació	                     Centres de Formació d'Adults
+Educació	                     Centres de Formació Permanent
+Educació	                     Centres d'Educació especial
+Educació	                     Ensenyament concertat
+Educació	                     Ensenyament públic Infantil i Primària
+Educació	                     Ensenyament públic Secundari
+Educació	                     Escola Bressol municipal
+Educació	                     Escola Municipal de Música
+Educació	                     Escola Oficial d'Idiomes
+Educació	                     Estudis universitaris
+Educació	                     Llars d'infants privades
+Educació	                     Programes de Qualificació Professional Inicial (PQPI)
+Esports	                     Altres -instal·lacions esportives-
+Esports	                     Camps esportius municipals
+Esports	                     Centres esportius
+Esports	                     Pistes de petanca
+Esports	                     Pistes i Poliesportius
+Justícia	                     Jutjats
+Lavabos públics	            Lavabo adaptat
+Lavabos públics	            Lavabo no adaptat
+Mercats i Centres comercials	Centres comercials
+Mercats i Centres comercials	Mercats fixos municipals
+Mercats i Centres comercials	Mercats fixos privats
+Mercats i Centres comercials	Mercats setmanals
+Mobilitat	                  Aparcament lliure
+Mobilitat	                  Autobusos urbans
+Mobilitat	                  Benzineres
+Mobilitat	                  Dipòsit vehicles
+Mobilitat	                  Exàmens de conducció
+Mobilitat	                  Lloguer de vehicles
+Mobilitat	                  Parada de taxi
+Mobilitat	                  Punt de càrrega de vehicles
+Mobilitat	                  Rodalies de Catalunya
+Oficines de la General...     Agència Tributària
+Oficines de la General...     Oficines de Treball
+Oficines de l'Administraci... Tresoreria de la Seguretat Social
+Organismes externs	         Centres Tecnològics
+Organismes externs	         Collegis professionals
+Organismes externs	         Jutjats
+Residus	                     Deixelleries fixes
+Residus	                     Deixelleries mòbils
+Residus	                     Depuradora
+Residus	                     Tractament de residus
+Seguretat	                  Bombers
+Seguretat	                  Comissaries
+Serveis funeraris	            Cementiris
+Serveis funeraris	            Crematoris
+Serveis funeraris	            Tanatoris
+Serveis per a joves	         Espai jove
+Serveis per a joves	         Oficines d'Atenció i informació per a joves
+Serveis per a joves	         Servei d'Ocupació Jove
+Serveis religiosos	         Església Adventista
+Serveis religiosos	         Església Catòlica
+Serveis religiosos	         Església Evangèlica
+Serveis religiosos	         Església Mormona
+Serveis religiosos	         Islam
+Serveis religiosos	         Testimonis Cristians de Jehovà
+Serveis sanitaris	            Altres -serveis sanitaris-
+Serveis sanitaris	            Atenció sociosanitària
+Serveis sanitaris	            Centres d'Atenció Primària (CAP)
+Serveis sanitaris	            Creu Roja
+Serveis sanitaris	            Farmàcies
+Serveis sanitaris	            Hospital
+Serveis sanitaris	            Salut mental i adiccions
+Serveis socials	            Centres d'Acollida
+Serveis socials	            Centres d'Atenció a la infància
+Serveis socials	            Centres de Dia per a la gent gran
+Serveis socials	            Centres per a persones amb discapacitat
+Serveis socials	            Centres residencials per a gent gran
+Serveis socials	            Oficines de Serveis socials
+Turisme	                     Oficina de turisme
+	

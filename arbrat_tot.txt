@@ -1,0 +1,11 @@
+Nom del fitxer: arbrat-tot.csv
+Columnes:
+   NOM: especie de l'abre
+   LAT: latitud en coordenades geogràfiques
+   LNG: longitud en coordenades geogràfiques
+   WKT: punt en format WKT Well-Known Text
+Descripció:
+   Ubicació dels arbres a Mataró
+Actualització:
+   Dades no actualitzades
+   

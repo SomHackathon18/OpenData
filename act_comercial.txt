@@ -1,0 +1,13 @@
+Nom del fitxer: act_comercial.csv
+Columnes:
+   CODI_ACCES: codi intern de l'accés
+   ADRECA: adreça de l'accés
+   EPIGRAF_IAE: codi de l'epígraf d'IAE
+   EPIGRAF_DESC: descripció de l'activitat
+   LAT: latitud en coordenades geogràfiques de l'accés 
+   LNG: longitud en coordenades geogràfiques de l'accés 
+   WKT: punt de l'accés en format WKT Well-Known Text
+Descripció:
+   Es mostren les activitats comercials que es desenvolupen en els accessos (carrer i número) indicats
+Actualització:
+   Dades no actualitzades. 

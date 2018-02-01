@@ -1,0 +1,14 @@
+Nom del fitxer: mobilitat_zblava.csv
+Columnes:
+   ZONA: Zona blava  ( en tots els casos )
+   AREA: superfície de la zona
+   PERIMETRE: perímetre de la zona
+   AMPLADA: amplada de la zona
+   ALÇADA: alçada de la zona
+   LAT: latitud en coordenades geogràfiques del centroide de la zona
+   LNG: longitud en coordenades geogràfiques del centroide de la zona
+   WKT: pol·lígon en format WKT Well-Known Text
+Descripció:
+   Zones blaves a Mataró. Es facilita la geometria i el centroide de la zona.
+Actualització:
+   Dades no actualitzades

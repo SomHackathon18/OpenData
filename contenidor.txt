@@ -1,0 +1,12 @@
+Nom del fitxer: mobilitat_ocup2017.csv
+CODI,NOM,LAT,LNG,WKT
+Columnes:
+   CODI: codi del tipus de contenidor
+   CODI: tipus de contenidor
+   LAT: latitud en coordenades geogràfiques del punt
+   LNG: longitud en coordenades geogràfiques del punt
+   WKT: punt en format WKT Well-Known Text   
+Descripció:
+   Es mostren els contenidors de brossa i el tipus de residu
+Actualització:
+   Dades no actualitzades
